@@ -74,5 +74,5 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"nodes":["http://127.0.0
 ```
 ##
 This is the end of the example verification, during which, I encountered a lot more problems than I thought I would even with a guiding website. Hopefully, following my step-by-step action, you will not be bumping into other unnecessary problems. 
-It might be because I read a lot of blockchain materials and examples, I think up to this point, this example gives a well-rounded information about blockchain and a very good sense for someone who is new to the subject by making interactions meaningful and gives you a feedback for what you do, especially combined with [the document the author provides.][1]
-[1]: https://medium.com/@vanflymen/learn-blockchains-by-building-one-117428612f46
+It might be because I read a lot of blockchain materials and examples, I think up to this point, this example gives a well-rounded information about blockchain and a very good sense for someone who is new to the subject by making interactions meaningful and gives you a feedback for what you do, especially combined with [the document the author provides].
+[the document the author provides]: https://medium.com/@vanflymen/learn-blockchains-by-building-one-117428612f46
